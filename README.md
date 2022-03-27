@@ -15,7 +15,7 @@ Phosphate does not obfuscate imports so that your code can still be compiled int
 
 <br><br>
 <p align="center">
-Download the source code and add your python file which you would like to obfuscate into the same directory as both the main.py and phosphate.py
+Download the source code and add the python file which you would like to obfuscate into the same directory as the main.py and the phosphate.py
 <br>
 <br>
 Open the main.py and input the name of your file
